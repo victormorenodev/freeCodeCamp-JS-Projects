@@ -1,0 +1,3 @@
+This is a series of projects that I did in order to get the "JavaScript Algorithms and Data Structures" certificate. It is not the most optimized version possible, but it works as it should be, and I learned a lot about JS in the process.
+
+Essa é a apenas uma série de projetos que eu fiz para conseguir o certificado "JavaScript Algorithms and Data Structures". Não é a versão mais otimizada possível, mas funciona como deveria ser e eu aprendi muito sobre JavaScript no processo!
